@@ -75,8 +75,8 @@
     {
       "b": 209,
       "disableInputWhenNotFocused": true,
-      "mangledName": "Sc_232ne_32sans_32titre",
-      "name": "Scène sans titre",
+      "mangledName": "Scene",
+      "name": "Scene",
       "r": 209,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
